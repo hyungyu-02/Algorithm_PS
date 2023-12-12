@@ -1,8 +1,8 @@
 1018 - search
 1026 - sort
-1043
+1043 - data_structure
 10773 - stack
-10844
+10844 - dynamic_programming
 10866 - queue
 11053
 11404
@@ -50,7 +50,7 @@
 6064
 7562 - search
 7568
-9012 - stack
+9012 - stack, data_structure
 9020
 9184
 9251
