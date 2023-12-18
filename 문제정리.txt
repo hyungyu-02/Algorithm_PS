@@ -10,11 +10,11 @@
 1157
 1158 - queue
 11660 - dynamic_programming
-1167
+1167 - dijkstra
 11725 - search
 1181 - sort
 1197
-1238
+1238 - dijkstra
 12865
 1316
 14503
@@ -29,11 +29,11 @@
 15657
 15663
 1654 - search
-1753
+1753 - dijkstra
 18111
 18258 - queue
 1865 - bellman_ford
-1916
+1916 - dijkstra
 1918 
 1920 - search
 1929
