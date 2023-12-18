@@ -4,11 +4,11 @@
 10773 - stack
 10844 - dynamic_programming
 10866 - queue
-11053
+11053 - dynamic_programming
 11404
 1157
 1158 - queue
-11660
+11660 - dynamic_programming
 1167
 11725 - search
 1181 - sort
@@ -31,7 +31,7 @@
 1753
 18111
 18258 - queue
-1865
+1865 - bellman_ford
 1916
 1918 
 1920 - search
@@ -41,8 +41,8 @@
 1967 - search
 1991
 2164 - queue
-2293
-2294
+2293 - dynamic_programming
+2294 - dynamic_programming
 2751 - sort
 1941
 4948
@@ -54,5 +54,5 @@
 7568
 9012 - stack, data_structure
 9020
-9184
-9251
+9184 - dynamic_programming
+9251 - dynamic_programming
