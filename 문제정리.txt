@@ -13,22 +13,24 @@
 1167 - dijkstra
 11725 - search
 1181 - sort
+1182 - backtracking
 1197
 1238 - dijkstra
 12865
 1316
 14502 - search
 14503
-14888
-15649
-15650
-15651
-15652
-15654
-15655
-15656
-15657
-15663
+14888 - backtracking
+15649 - backtracking
+15650 - backtracking
+15651 - backtracking
+15652 - backtracking
+15654 - backtracking
+15655 - backtracking
+15656 - backtracking
+15657 - backtracking
+15663 - backtracking
+15686 - backtracking
 1654 - search
 1753 - dijkstra
 18111
