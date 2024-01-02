@@ -44,6 +44,7 @@
 1956 - floyd_warshall
 1966 - queue
 1967 - search
+1987 - search
 1991
 2164 - queue
 2293 - dynamic_programming
