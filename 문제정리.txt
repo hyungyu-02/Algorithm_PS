@@ -46,6 +46,7 @@
 1967 - search
 1987 - search
 1991
+2096 - dynamic_programming
 2164 - queue
 2293 - dynamic_programming
 2294 - dynamic_programming
