@@ -5,22 +5,22 @@
 10844 - dynamic_programming
 10866 - queue
 11053 - dynamic_programming
-11054
+11054 - dynamic_programming
 11404 - floyd_warshall
 11444 - fibonacci
-1157
+1157 - string
 1158 - queue
 11660 - dynamic_programming
 1167 - dijkstra
 11725 - search
 1181 - sort
 1182 - backtracking
-1197
+1197 - kruskal
 1238 - dijkstra
-12865
-1316
+12865 - knapsack
+1316 - string
 14502 - search
-14503
+14503 - simulation
 14888 - backtracking
 15649 - backtracking
 15650 - backtracking
@@ -34,32 +34,32 @@
 15686 - backtracking
 1654 - search
 1753 - dijkstra
-18111
+18111 - burteforce
 18258 - queue
 1865 - bellman_ford
 1916 - dijkstra
-1918 
+1918 - data_structure
 1920 - search
-1929
+1929 - math
 1956 - floyd_warshall
 1966 - queue
 1967 - search
 1987 - search
-1991
+1991 - recursion
 2096 - dynamic_programming
 2164 - queue
 2293 - dynamic_programming
 2294 - dynamic_programming
 2751 - sort
-1941
-4948
+2941 - string
+4948 - math
 4949 - stack
 4963 - search
 5639 - search
-6064
+6064 - bruteforce
 7562 - search
-7568
+7568 - bruteforce
 9012 - stack, data_structure
-9020
+9020 - math
 9184 - dynamic_programming
 9251 - dynamic_programming
