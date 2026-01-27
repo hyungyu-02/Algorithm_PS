@@ -1,3 +1,4 @@
+[백준]
 1018 - search
 1026 - sort
 1043 - data_structure
@@ -63,3 +64,7 @@
 9020 - math
 9184 - dynamic_programming
 9251 - dynamic_programming
+
+[Programmers]
+완주하지 못한 선수 - hash
+예상 대진표 - simulation
