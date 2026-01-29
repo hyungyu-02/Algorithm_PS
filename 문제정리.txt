@@ -70,3 +70,5 @@
 예상 대진표 - simulation
 괄호 회전하기 - stack
 기능개발 - queue
+네트워크 - search
+베스트앨범 - hash
