@@ -76,3 +76,5 @@
 최댓값과 최솟값 - string
 섬 연결하기 - graph
 단어 변환 - search
+구명보트 - greedy
+튜플 - string
