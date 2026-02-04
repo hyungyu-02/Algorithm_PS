@@ -82,3 +82,5 @@
 피보나치 수 - fibonacci
 멀리 뛰기 - dynamic_programming
 카펫 - bruteforce
+H-Index - sort
+타겟 넘버 - search
