@@ -84,3 +84,7 @@
 카펫 - bruteforce
 H-Index - sort
 타겟 넘버 - search
+큰 수 만들기 - greedy
+평균 구하기 - math
+숫자의 표현 - math
+전화번호 목록 - hash
