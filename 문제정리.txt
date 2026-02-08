@@ -88,3 +88,5 @@ H-Index - sort
 평균 구하기 - math
 숫자의 표현 - math
 전화번호 목록 - hash
+정수 삼각형 - dynamic_programming
+등굣길 - dynamic_programming
