@@ -90,3 +90,5 @@ H-Index - sort
 전화번호 목록 - hash
 정수 삼각형 - dynamic_programming
 등굣길 - dynamic_programming
+과제 진행하기 - stack
+의상 - hash
