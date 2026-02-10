@@ -92,3 +92,5 @@ H-Index - sort
 등굣길 - dynamic_programming
 과제 진행하기 - stack
 의상 - hash
+이중우선순위큐 - heap
+더 맵게 - heap
