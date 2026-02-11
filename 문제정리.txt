@@ -94,3 +94,5 @@ H-Index - sort
 의상 - hash
 이중우선순위큐 - heap
 더 맵게 - heap
+피로도 - bruteforce
+소수 찾기 - bruteforce
