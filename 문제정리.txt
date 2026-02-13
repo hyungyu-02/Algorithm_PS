@@ -96,3 +96,7 @@ H-Index - sort
 더 맵게 - heap
 피로도 - bruteforce
 소수 찾기 - bruteforce
+하샤드 수 - math
+음양 더하기 - math
+영어 끝말잇기 - implementation
+프로세스 - queue
