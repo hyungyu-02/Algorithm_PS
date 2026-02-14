@@ -100,3 +100,5 @@ H-Index - sort
 음양 더하기 - math
 영어 끝말잇기 - implementation
 프로세스 - queue
+모음사전 - bruteforce
+전력망을 둘로 나누기 - bruteforce
