@@ -102,3 +102,5 @@ H-Index - sort
 프로세스 - queue
 모음사전 - bruteforce
 전력망을 둘로 나누기 - bruteforce
+체육복 - greedy
+배열 자르기 - implementation
