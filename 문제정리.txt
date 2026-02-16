@@ -104,3 +104,5 @@ H-Index - sort
 전력망을 둘로 나누기 - bruteforce
 체육복 - greedy
 배열 자르기 - implementation
+K번째수 - sort
+가장 큰 수 - sort
