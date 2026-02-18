@@ -106,3 +106,7 @@ H-Index - sort
 배열 자르기 - implementation
 K번째수 - sort
 가장 큰 수 - sort
+배열의 평균값 - math
+편지 - math
+공배수 - math
+세균 증식 - math
