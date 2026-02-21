@@ -114,3 +114,5 @@ K번째수 - sort
 주사위의 개수 - math
 가운데 글자 가져오기 - string
 콜라츠 추측 - implementation
+징검다리 건너기 - binary_search
+서울에서 김서방 찾기 - implementation
