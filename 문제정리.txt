@@ -118,3 +118,5 @@ K번째수 - sort
 서울에서 김서방 찾기 - implementation
 직사각형 별찍기 - implementation
 카드 뭉치 - implementation
+없는 숫자 더하기 - implementation
+자연수 뒤집어 배열로 만들기 - implementation
