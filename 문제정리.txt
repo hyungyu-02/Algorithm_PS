@@ -127,3 +127,4 @@ x만큼 간격이 있는 n개의 숫자 - implementation
 JadenCase 문자열 만들기 - implementation
 호텔 대실 - heap
 최솟값 만들기 - greedy
+이진 변환 반복하기 - implementation
