@@ -129,3 +129,4 @@ JadenCase 문자열 만들기 - implementation
 최솟값 만들기 - greedy
 이진 변환 반복하기 - implementation
 다음 큰 숫자 - implementation
+짝지어 제거하기 - stack
