@@ -133,3 +133,4 @@ JadenCase 문자열 만들기 - implementation
 연속 부분 수열 합의 개수 - sliding_window
 n^2 배열 자르기 - implementation
 행렬의 곱셈 - matrix
+[1차] 캐시 - queue
